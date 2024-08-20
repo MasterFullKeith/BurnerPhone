@@ -1,0 +1,29 @@
+Info: Processing symbol 'U1:Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm'.
+Add net unconnected-(U1-Pad6).
+Connected U1 pin 7 to unconnected-(U1-V+-Pad7).
+Add net unconnected-(U1-V+-Pad7).
+Connected U1 pin 5 to unconnected-(U1-NC-Pad5).
+Add net unconnected-(U1-NC-Pad5).
+Connected U1 pin 2 to unconnected-(U1---Pad2).
+Add net unconnected-(U1---Pad2).
+Connected U1 pin 8 to unconnected-(U1-VOS-Pad8).
+Add net unconnected-(U1-VOS-Pad8).
+Connected U1 pin 1 to unconnected-(U1-VOS-Pad1).
+Add net unconnected-(U1-VOS-Pad1).
+Connected U1 pin 6 to unconnected-(U1-Pad6).
+Connected U1 pin 3 to unconnected-(U1-+-Pad3).
+Add net unconnected-(U1-+-Pad3).
+Connected U1 pin 4 to unconnected-(U1-V--Pad4).
+Add net unconnected-(U1-V--Pad4).
+Updated U1 footprint filters to 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TO*99*'.
+Updated U1 sheetfile to 'BurnerPhoneMB.kicad_sch'.
+Updated U1 sheetname to 'Root'.
+Updated U1 fields.
+Updated U1 symbol association from  to /0a1c5d55-e861-493e-992e-9981c3624b1d.
+Changed U1 value from SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm to OP07.
+Changed REF** reference designator to U1.
+Added U1 (footprint 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm').
+Warning: No net found for component U1 pad 9 (no pin 9 in symbol).
+
+
+Info: Total warnings: 1, errors: 0.

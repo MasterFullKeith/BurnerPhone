@@ -1,0 +1,18 @@
+A sticky part of the system is the battery pack. It has to produce 3 voltages +3V3, +5V, and -5V. Each of these 
+voltages is produced by a pair of 3.7v 500mAh LION batteries. Additionally these batteries have to be placed in 
+a recharging mode. TP4056 modules will be used to charge each battery pair. The topology for a single section 
+follows:
+Battery 1 (+) -- C1 ---|Relay 1|--- NC1 --> Battery 2 (+)
+                       |       |
+                       |       |
+Battery 2 (-) -- C2 ---|       |--- NC2 --> +3.3V, +5V Regulators
+                       |Relay 1|
+Battery 1 (-) -- C3 ---|       |--- NC3 --> GND
+                       |       |
+                       |       |
+Battery 2 (+) -- C4 ---|       |--- NC4 --> +3.3V, +5V Regulators
+                       |Relay 1|
+                       NO1 --> Charger (+)
+                       NO2 --> Charger (+)
+                       NO3 --> Charger (-)
+                       NO4 --> Charger (-)

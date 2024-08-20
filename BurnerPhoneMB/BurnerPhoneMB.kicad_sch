@@ -1,0 +1,240 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d99851b1-fac4-460d-8382-ff067128e75d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 36.83 110.49)
+		(size 53.34 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "15a17ebc-3bb7-4dd6-ba83-0ef6d45e57b4")
+		(property "Sheetname" "Fluid Cell Connections"
+			(at 36.83 109.1434 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FluidCellConnections.kicad_sch"
+			(at 36.83 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BurnerPhoneMB"
+				(path "/d99851b1-fac4-460d-8382-ff067128e75d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 111.76)
+		(size 54.61 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "473c9641-2f6f-496b-a014-7a980e145b22")
+		(property "Sheetname" "PreAMP Sheet"
+			(at 110.49 110.4134 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PreAMP.kicad_sch"
+			(at 110.49 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BurnerPhoneMB"
+				(path "/d99851b1-fac4-460d-8382-ff067128e75d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 73.66)
+		(size 54.61 20.32)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7666487d-1c98-403c-9b4f-b7e7f34a0a30")
+		(property "Sheetname" "NodeMCU ESP32-S3 Section"
+			(at 35.306 72.136 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 35.56 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BurnerPhoneMB"
+				(path "/d99851b1-fac4-460d-8382-ff067128e75d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 73.66)
+		(size 54.61 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "97c0fdef-c147-4669-ad0a-322ee1e99d74")
+		(property "Sheetname" "DAC"
+			(at 110.49 72.3134 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DAC.kicad_sch"
+			(at 110.49 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BurnerPhoneMB"
+				(path "/d99851b1-fac4-460d-8382-ff067128e75d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 35.56)
+		(size 54.61 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "acc69dd8-a2d5-4190-8e61-c1f248b5520d")
+		(property "Sheetname" "ADC"
+			(at 110.49 34.2134 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADC.kicad_sch"
+			(at 110.49 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BurnerPhoneMB"
+				(path "/d99851b1-fac4-460d-8382-ff067128e75d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 35.56)
+		(size 54.61 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f2d0f9d8-4c15-41a5-89fb-791114dc027b")
+		(property "Sheetname" "RelaySection"
+			(at 35.56 34.2134 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BurnerPhoneExtras.kicad_sch"
+			(at 35.56 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BurnerPhoneMB"
+				(path "/d99851b1-fac4-460d-8382-ff067128e75d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
